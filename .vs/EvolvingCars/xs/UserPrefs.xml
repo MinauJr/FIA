@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{588A49FD-F79E-6C9C-94DD-92761A2E199C}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EvolvingCars/Car/Scripts/CarSampleConfig.cs">
+    <Files>
+      <File FileName="Assets/EvolvingCars/TP2/CarFitness.cs" Line="40" Column="26" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarChromosome.cs" Line="8" Column="40" />
+      <File FileName="Assets/EvolvingCars/Commons/BitStringChromosome.cs" Line="11" Column="19" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarController.cs" Line="239" Column="43" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarSampleConfig.cs" Line="8" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvolvingCars" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="EvolvingCars" expanded="True">
+                <Node name="Car" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="CarSampleConfig.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Commons" expanded="True" />
+                <Node name="TP2" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a3f4610b-95c5-447b-91c6-dbe9f0d36e93" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jncor/Dropbox/work/2023-2024/FIA/TP2/SodaRacer2324/SodaRacer2023/Assets/Editor/ExportPackage.cs" relfile="Assets/Editor/ExportPackage.cs" line="20" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/work/2023-2024/FIA/TP2/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/Commons/EvaluateBest.cs" relfile="Assets/EvolvingCars/Commons/EvaluateBest.cs" line="140" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/work/2023-2024/FIA/TP2/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/Commons/EvaluateBest.cs" relfile="Assets/EvolvingCars/Commons/EvaluateBest.cs" line="82" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{588A49FD-F79E-6C9C-94DD-92761A2E199C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/TournamentSolution.cs">
+    <Files>
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/UniformCrossoverSolution.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/Elitism.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarSampleConfig.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/PathBuilder.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/ElitismSolution.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarChromosome.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarVectorFloatPhenotypeEntity.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarVectorPhenotypeEntity.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarController.cs" Line="151" Column="57" />
+      <File FileName="Assets/EvolvingCars/Commons/FloatingPointChromosome.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/RoadController.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/UniformCrossover.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/TwoPointCrossover.cs" Line="33" Column="33" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/TwoPointCrossoverSolution.cs" Line="56" Column="31" />
+      <File FileName="Assets/EvolvingCars/TP2/CarFitness.cs" Line="51" Column="71" />
+      <File FileName="Assets/EvolvingCars/Commons/EvaluateBest.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/GaussianMutation.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/Roulette.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/Commons/PrefabPool.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/Commons/SampleContainer.cs" Line="1" Column="1" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarSampleController.cs" Line="78" Column="85" NotebookId="1" />
+      <File FileName="Assets/EvolvingCars/Commons/SampleControllerBase.cs" Line="96" Column="1" NotebookId="1" />
+      <File FileName="Assets/EvolvingCars/TP2/GeneticAlgorithmConfigurations.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/RouletteSolution.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/TournamentSolution.cs" Line="17" Column="1" NotebookId="1" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/Tournament.cs" Line="35" Column="26" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SodaRacer2023" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+              <Node name="EvolvingCars" expanded="True">
+                <Node name="Car" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Commons" expanded="True" />
+                <Node name="TP2" expanded="True">
+                  <Node name="Meta1" expanded="True">
+                    <Node name="TP2-Solutions" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cb6b01e9-830b-42ac-aabb-2531f980b479" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jncor/Dropbox/FIA-2024/TPs/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/SinglePointCrossoverSolution.cs" relfile="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/SinglePointCrossoverSolution.cs" line="61" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/FIA-2024/TPs/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/SinglePointMutationSolution.cs" relfile="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/SinglePointMutationSolution.cs" line="26" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/FIA-2024/TPs/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/Commons/EvaluateBest.cs" relfile="Assets/EvolvingCars/Commons/EvaluateBest.cs" line="89" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/FIA-2024/TPs/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/Commons/EvaluateBest.cs" relfile="Assets/EvolvingCars/Commons/EvaluateBest.cs" line="105" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/FIA-2024/TPs/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/RouletteSolution.cs" relfile="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/RouletteSolution.cs" line="49" column="1" />
+      <Breakpoint file="/Users/jncor/Dropbox/FIA-2024/TPs/SodaRacer2324/SodaRacer2023/Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/RouletteSolution.cs" relfile="Assets/EvolvingCars/TP2/Meta1/TP2-Solutions/RouletteSolution.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

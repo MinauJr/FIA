@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{10D5D5A4-FC9B-5CF0-F9CD-DDE446232B42}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bfdf4d96-dd4e-4f35-b81b-41665fad14a3" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SodaRacer2024" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="EvolvingCars" expanded="True">
+                <Node name="Car" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Commons" expanded="True">
+                  <Node name="SampleControllerBase.cs" selected="True" />
+                </Node>
+                <Node name="TP2" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

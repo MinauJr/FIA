@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{4DABB98E-9D14-AFD6-C651-F03AE45A85F4}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d4285539-73ee-4752-bb50-fcc98ba4e93e" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EvolvingCars/Car/Scripts/CarController.cs">
+    <Files>
+      <File FileName="Assets/EvolvingCars/TP2/CarFitness.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/GeneticAlgorithmConfigurations.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/Crossover.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/SurvivorSelection.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/ParentSelection.cs" />
+      <File FileName="Assets/EvolvingCars/TP2/Meta1/Mutation.cs" />
+      <File FileName="Assets/EvolvingCars/Commons/SampleContainer.cs" />
+      <File FileName="Assets/EvolvingCars/Commons/SampleControllerBase.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/SimulationGrid.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/EvaluationGrid.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/DrawPolygon.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarVectorPhenotypeEntity.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarSampleController.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarSampleConfig.cs" />
+      <File FileName="Assets/EvolvingCars/Car/Scripts/CarController.cs" Line="194" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SodaRacer2024 - Alunos" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="EvolvingCars" expanded="True">
+                <Node name="Car" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="CarController.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Commons" expanded="True" />
+                <Node name="TP2" expanded="True">
+                  <Node name="Meta1" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="GeneticSharp" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
